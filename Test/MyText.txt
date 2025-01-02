@@ -1,2 +1,3 @@
 This is my text,this text is changed
 this is a new line
+This is a bugfix
